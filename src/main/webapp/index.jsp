@@ -10,6 +10,9 @@
 	this is a  echarts demo!!
 	  <!-- 为 ECharts 准备一个具备大小（宽高）的 DOM -->
     <div id="main" style="width: 600px;height:400px;"></div>
+    <!-- 以下是散点图 -->
+    <div id="scatter_bubble" style="width: 600px;height:400px;"></div>
 <script type="text/javascript" src="product/index.js"></script>
+<script type="text/javascript" src="product/scatter.js"></script>
 </body>
 </html>
