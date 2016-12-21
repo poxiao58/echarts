@@ -613,5 +613,5 @@ var scatter_map=function(){
 };
 //散点气泡图
 scatter_bubble();
-//散点地图
+//散点地图--注意事项：此图若想完整展示必须引入地图的js,我引入的文件是china.js,地图样式可到http://echarts.baidu.com/download-map.html下载
 scatter_map();
